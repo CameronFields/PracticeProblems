@@ -1,0 +1,9 @@
+https://www.dailycodingproblem.com/solution/3?token=b451a12f41bda3a43ac8fb135969eb1fbce764b51d732650bf6239cdbdbca19df8749aa2
+
+
+Serialize and deSerialize a binary tree
+
+
+Serialize a binary tree means to put it into a text file.
+
+deSerialize a binary tree means to produce a binary tree from a serialized tree's text file.
