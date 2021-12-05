@@ -1,0 +1,17 @@
+Unival tree - universal tree:
+	a tree where all nodes under it have the same value
+
+Given root to a binary tree, count the number of unival subtrees
+
+Example, the following tree has 5 unival subtrees
+
+
+	0
+       / \
+      1   0
+         / \
+        1   0
+       / \ 
+      1   1
+
+

@@ -1,0 +1,5 @@
+https://www.dailycodingproblem.com/solution/2?token=2ecc7bcbccb7cba29e01b0a16a8223d770eeee8dc21197dc1270fc6d694aa79f7b553f41
+
+Take every integer in an array besides i, and multiply them, use that product to build a new array.
+
+That product that is all elements that are not i, is to be placed at i in the new array.
